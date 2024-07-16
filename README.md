@@ -33,7 +33,7 @@
 	            Mobile_App_Development: ['React Native'],
 	            Database: ['MongoDB', 'MS SQL', 'MySQL'],
 	            DevOps: ['Bash'],
-	            Operating_Systems: ['Windows 11', 'Linux']
+	            Operating_Systems: ['Windows 11', 'Arch Linux']
 	        }
     	}
 
