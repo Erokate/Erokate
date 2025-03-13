@@ -30,10 +30,10 @@
 	        Technologies: {
 	            Frontend_Development: ['HTML5', 'CSS3', 'SASS', 'React'],
 	            Backend_Development: ['NodeJS', 'Express'],
-	            Mobile_App_Development: ['React Native'],
-	            Database: ['MongoDB', 'MS SQL', 'MySQL'],
-	            DevOps: ['Bash'],
-	            Operating_Systems: ['Windows 11', 'Arch Linux']
+	            Database: ['MongoDB', 'MSSQL', 'MySQL'],
+	            Operating_Systems: ['Windows 11', 'Arch Linux', 'Debian'],
+ 		    Editors: ['Visual Studio Code', 'Notepad++', 'Nano']
+	            Other: ['Docker', 'Git', 'Bash', 'Powershell']
 	        }
     	}
 
