@@ -32,7 +32,7 @@
 	            Backend_Development: ['NodeJS', 'Express'],
 	            Database: ['MongoDB', 'MSSQL', 'MySQL'],
 	            Operating_Systems: ['Windows 11', 'Arch Linux', 'Debian'],
- 		    Editors: ['Visual Studio Code', 'Notepad++', 'Nano']
+ 		    Editors: ['Visual Studio Code', 'Notepad++', 'Nano'],
 	            Other: ['Docker', 'Git', 'Bash', 'Powershell']
 	        }
     	}
