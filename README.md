@@ -28,11 +28,11 @@
 	        ],
 		Currently_Working_On: ['HSMBot', 'HSMApi', 'HSM Web'],
 	        Technologies: {
-	            Frontend_Development: ['HTML5', 'CSS3', 'SASS', 'React'],
+	            Frontend_Development: ['HTML5', 'CSS3', 'SASS', 'React', 'Next.JS', 'TailwindCSS'],
 	            Backend_Development: ['NodeJS', 'Express'],
 	            Database: ['MongoDB', 'MSSQL', 'MySQL'],
 	            Operating_Systems: ['Windows 11', 'Arch Linux', 'Debian'],
- 		    Editors: ['Visual Studio Code', 'Notepad++', 'Nano'],
+ 		    	Editors: ['Visual Studio Code', 'Notepad++', 'Nano'],
 	            Other: ['Docker', 'Git', 'Bash', 'Powershell']
 	        }
     	}
